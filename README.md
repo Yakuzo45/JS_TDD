@@ -12,6 +12,7 @@ git clone https://github.com/GITHUB_LOGIN/js-training.git
 cd js-training
 
 ```
+//
 
 ## Testing
 Once you have coded your masterpiece, you can start to test your solutions.
